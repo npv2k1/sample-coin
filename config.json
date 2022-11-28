@@ -1,0 +1,9 @@
+{
+  "main": "./contracts/Coin.sol",
+  "deploy": "",
+  "framework": "hardhat",
+  "compilers": {
+    "solc": "0.6.12"
+  },
+  "npmClient": "yarn"
+}
